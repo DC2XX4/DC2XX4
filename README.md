@@ -21,22 +21,6 @@ Here are some of the technologies and tools I work with:
 - **Tools & Frameworks**: Git, Docker, Kubernetes, AWS, etc.
 - 
 
-## Projects
-
-### Project 1: [Project Name]
-- **Description**: Brief description of the project.
-- **Tech Stack**: [Technologies used in the project]
-- **Link**: [Link to the project or repository]
-
-### Project 2: [Project Name]
-- **Description**: Brief description of the project.
-- **Tech Stack**: [Technologies used in the project]
-- **Link**: [Link to the project or repository]
-
-### Project 3: [Project Name]
-- **Description**: Brief description of the project.
-- **Tech Stack**: [Technologies used in the project]
-- **Link**: [Link to the project or repository]
 
 ## Education
 
